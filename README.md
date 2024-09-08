@@ -1,1 +1,1 @@
-BookBot is my first project!
+Small learning project included in boot.dev
